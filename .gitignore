@@ -364,3 +364,7 @@ FodyWeavers.xsd
 /Setup/ResourceVersion.h
 /Setup/GlobalDefination.iss
 /Setup/Package/*
+
+# CodeArts IDE workspace database
+.arts/
+.merkle-snapshot.json
